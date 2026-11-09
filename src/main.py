@@ -18,7 +18,7 @@ with st.container(border=True):
     col1, col2 = st.columns(2)
 
     with col1:
-        st.info("Crie um programa em C++ para arduino para ascender 5 leds")
+        st.info("Crie um programa em C++ para arduino para acender 5 leds")
         st.info("Me ensine o básico do Python.")
 
     with col2:
