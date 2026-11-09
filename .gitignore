@@ -1,0 +1,14 @@
+# Variáveis de ambiente
+.env
+.env.*
+
+# Permitir arquivo de exemplo
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Pytest
+.pytest_cache/
