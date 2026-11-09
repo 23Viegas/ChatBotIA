@@ -8,6 +8,9 @@ def config_ia():
     api_key = os.getenv("GEMINI_API_KEY")
 
     if not api_key:
+        api_key = st.secrets.get("GEMINI_API_KEY")
+
+    if not api_key:
         raise ValueError("Chave da API não encontrada!")
 
     modelo_ia = OpenAI(
@@ -16,6 +19,7 @@ def config_ia():
     )
 
     return modelo_ia
+
 
 def mensagem_da_ia(lista_mensagem):
     modelo_ia = config_ia()

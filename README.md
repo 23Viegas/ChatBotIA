@@ -5,7 +5,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-API-4285F4?logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
 
-[![Testar ChatBotIA](https://img.shields.io/badge/TESTAR_NEXUSAI-ACESSAR_CHATBOT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_CHATBOT)
+[![Testar ChatBotIA](https://img.shields.io/badge/TESTAR_CHATBOTIA-ACESSAR_CHATBOT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://testchatbotia.streamlit.app/)
 
 ## Sobre o projeto
 
